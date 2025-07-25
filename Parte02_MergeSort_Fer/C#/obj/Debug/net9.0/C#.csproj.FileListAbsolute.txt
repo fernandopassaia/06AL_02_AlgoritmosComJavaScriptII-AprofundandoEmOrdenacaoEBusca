@@ -1,0 +1,15 @@
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/obj/Debug/net9.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/obj/Debug/net9.0/C#.AssemblyInfoInputs.cache
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/obj/Debug/net9.0/C#.AssemblyInfo.cs
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/obj/Debug/net9.0/C#.csproj.CoreCompileInputs.cache
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/obj/Debug/net9.0/C#.sourcelink.json
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/bin/Debug/net9.0/C#
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/bin/Debug/net9.0/C#.deps.json
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/bin/Debug/net9.0/C#.runtimeconfig.json
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/bin/Debug/net9.0/C#.dll
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/bin/Debug/net9.0/C#.pdb
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/obj/Debug/net9.0/C#.dll
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/obj/Debug/net9.0/refint/C#.dll
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/obj/Debug/net9.0/C#.pdb
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/obj/Debug/net9.0/C#.genruntimeconfig.cache
+/Users/fernandopassaia/Dev/studies2025/06AL/06AL_02_AlgoritmosComJavaScriptII-AprofundandoEmOrdenacaoEBusca/Parte02_MergeSort_Fer/C#/obj/Debug/net9.0/ref/C#.dll
