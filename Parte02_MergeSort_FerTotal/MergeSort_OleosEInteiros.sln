@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort_OleosEInteiros", "MergeSort_OleosEInteiros.csproj", "{F6C7016F-8852-4CA3-8F42-8A0CCBB95ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C7016F-8852-4CA3-8F42-8A0CCBB95ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C7016F-8852-4CA3-8F42-8A0CCBB95ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C7016F-8852-4CA3-8F42-8A0CCBB95ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C7016F-8852-4CA3-8F42-8A0CCBB95ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
