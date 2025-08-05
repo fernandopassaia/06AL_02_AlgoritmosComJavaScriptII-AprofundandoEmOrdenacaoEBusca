@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MergeSort_OleosEInteiros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7da313ea75fbd3f224d7660ac2bd24f0aff61b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d81745ffbf6860ae22d7789220f4bb499553e25")]
 [assembly: System.Reflection.AssemblyProductAttribute("MergeSort_OleosEInteiros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MergeSort_OleosEInteiros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
