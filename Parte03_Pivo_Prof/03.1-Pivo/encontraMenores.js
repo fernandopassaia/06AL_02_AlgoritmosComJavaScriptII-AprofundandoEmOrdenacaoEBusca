@@ -1,5 +1,8 @@
 const listaLivros = require('./array')
 
+// essa funcao conta quantos itens tem valor MENOR que o pivo,
+// a ideia e posicionar o pivo na posicao correta, basicamente
+// ela encontra o Pivo e coloca ele no lugar certo dele
 function encontraMenores(pivo, array) {
   let menores = 0;
 
@@ -14,6 +17,7 @@ function encontraMenores(pivo, array) {
   return array
 }
 
+// trocaLugar vai colocar o Pivo no Lugar certo dele
 function trocaLugar(array, de, para) {
   const elem1 = array[de]
   const elem2 = array[para]
@@ -22,24 +26,30 @@ function trocaLugar(array, de, para) {
   array[de] = elem2
 }
 
+
+// essa funcao vai ORGANIZAR o array inteiro (funcao principal)
 function divideNoPivo(array) {
-  let pivo = array[Math.floor(array.length / 2)]; //pego bem no meio do array
-  encontraMenores(pivo, array); // coloco todos os menores que o pivo a esquerda
+	// pega um item no meio do pivo (poderia ser random, fim)
+  let pivo = array[Math.floor(array.length / 2)];
+  // coloca o item no local correto dele
+  encontraMenores(pivo, array);
   let valoresMenores = 0;
 
   for(let analisando = 0; analisando < array.length; analisando++) {
     let atual = array[analisando];
-    // atual !== pivo evito que o pivo seja analisado e trocado de lugar
     if(atual.preco <= pivo.preco && atual !== pivo) {
       trocaLugar(array, analisando, valoresMenores)
-      valoresMenores++ //aumento o indice para que ele nao mexa no anterior
+      valoresMenores++
     }
   }
 
   return array;
 }
 
-// console.log(divideNoPivo(listaLivros));
+console.log(divideNoPivo(listaLivros));
+
+// Encontra Menores na Posicao 2 vai pegar o JAVA, e vai retornar 5
+// por que existem 5 livros com valor menor que Java
 // console.log(encontraMenores(listaLivros[2], listaLivros));
 
 module.exports = trocaLugar;
